@@ -30,7 +30,7 @@ Edit this document to include your answers after each question. Make sure to lea
 
 1. Describe the biggest difference between `.forEach` & `.map`.
 
-.map returns an array
+.map returns an array whereas .forEach just runs a specified loop and function over an array
 
 2. What is the difference between a function and a method?
 
